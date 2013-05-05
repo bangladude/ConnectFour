@@ -1,4 +1,6 @@
 ConnectFour
 ===========
+by Saajid Moyen
 
-ConnectFour game played in the terminal
+
+
